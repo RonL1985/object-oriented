@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bd3fb46a-65d8-4fac-a5c4-11f8c445736a" name="object-oriented" url="http://bootcamp-coders.cnm.edu/~rluna41/object-oriented">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/rluna41/public_html/object-oriented" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
